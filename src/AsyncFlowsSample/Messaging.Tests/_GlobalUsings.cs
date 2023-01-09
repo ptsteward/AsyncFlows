@@ -1,0 +1,9 @@
+﻿global using AutoFixture.Xunit2;
+global using FluentAssertions;
+global using Microsoft.Extensions.DependencyInjection;
+global using Moq;
+global using AsyncFlows.Modules.Extensions;
+global using AsyncFlows.Modules.Messaging.MsgChannels.Broadcasting;
+global using AsyncFlows.Modules.Messaging.Tests.MockMessaging;
+global using AsyncFlows.Modules.Registrations;
+global using Xunit;
