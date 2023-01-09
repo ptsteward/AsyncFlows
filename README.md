@@ -14,13 +14,13 @@ Modules is the home to all the AsyncFlows bits and bytes you'll need to build on
     - ✅ `___Hosting` => `____Messaging` ✅
     - 🚫`___NewPkg` <= `__Extensions` & `___Hosting`🚫
 1. `global using` statements are contained within `_GlobalUsings.cs`
-    - All `Sched.Modules.*` usings are global
+    - All `AsyncFlows.Modules.*` usings are global
 1. All **Public ServiceCollection Registrations** fall underneath namespace
-    - `Sched.Modules.Registrations`
+    - `AsyncFlows.Modules.Registrations`
 1. All **Public Extension Methods** fall underneath namespace
-    - `Sched.Modules.Extensions`
+    - `AsyncFlows.Modules.Extensions`
 1. All **Public Constants** fall underneath namespace
-    - `Sched.Modules.Constants`
+    - `AsyncFlows.Modules.Constants`
 ___
 
 ## Package Architecture
