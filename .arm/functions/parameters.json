@@ -1,0 +1,48 @@
+{
+   "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+   "contentVersion": "1.0.0.0",
+   "parameters": {
+    "appName": {
+      "value": "concurrentflows-functions"
+    },
+    "certificateKeyVaultName": {
+      "value": "concurrentflows-keyvault"
+    },
+    "certificateKeyVaultResourceGroup": {
+      "value": "concurrentflows-rg"
+    },
+    "certificateKeyVaultSecret": {
+      "value": "concurrentflows-cert"
+    },
+    "certificateName": {
+      "value": "com.concurrentflows"
+    },
+    "functionEnvironmentName": {
+      "value": "production"
+    },
+    "hostingEnvironment": {
+      "value": "production"
+    },
+    "hostingPlanName": {
+      "value": "concurrentflows-hosting-plan"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "serverFarmResourceGroup": {
+      "value": "concurrentflows-rg"
+    },
+    "sku": {
+      "value": "Standard"
+    },
+    "skuCode": {
+      "value": "S1"
+    },
+    "storageName": {
+      "value": "concurrentflows-storage"
+    },
+    "subscriptionId": {
+      "value": "************"
+    }
+  }
+}
