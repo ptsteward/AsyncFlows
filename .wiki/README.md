@@ -11,7 +11,7 @@ Magic Mile Engineering
 ### **Product**
 Who|Role|Team|Photo
 ---|---|---|---
-***xxxx**|Product Track Lead|Supply Chain Enablement|🧠
+**xxxx**|Product Track Lead|Supply Chain Enablement|🧠
 **xxxx**|Senior Product Manger|Supply Chain Enablement|🤔
 **xxxx**|Associate Product Manger|Supply Chain Enablement|🎸
 
